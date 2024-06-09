@@ -25,7 +25,7 @@ int main ()
 	alive_cell();
 
 	while (1) {
-		system("cls");
+		system("clear");
 		print();
 		sleep(1);
 		underpopulate();
